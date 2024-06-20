@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi Absensi</string>
+    <string name="login_page">Aplikasi Bukti Absensi</string>
+    <string name="aplikasi_bukti_absensi">Aplikasi Bukti Absensi</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="masuk">Masuk</string>
+    <string name="webclientid">685942271290-icna23kj7i6komittagkr8si7489o17r.apps.googleusercontent.com</string>
+</resources>
